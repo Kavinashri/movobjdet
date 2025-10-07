@@ -1,4 +1,3 @@
-# movobjdet
 #  Moving Object Detection using OpenCV
 
 This project demonstrates a simple Python script for detecting moving objects using a webcam feed. It uses OpenCV for image processing and contour detection to highlight motion in real-time.
